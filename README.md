@@ -1,1 +1,1 @@
-# Tipfin
+# FinTip
